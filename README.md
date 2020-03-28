@@ -29,3 +29,5 @@ GPIO到MOS管中间用了一片74HC245来保护，但是为了稳定还是加上
 
 调光视频：
 ![image](https://github.com/meijie-jesse/Lightning-ESP8266-Smart-Device/blob/master/images/Lightning_showtime.gif)
+
+# ESPhome配置文件、编译好后的程序、原理图、Gerber文件已上传。
